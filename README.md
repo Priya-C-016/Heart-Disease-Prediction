@@ -68,7 +68,7 @@ These algorithms help in understanding the feature importance and decision-makin
 | Decision Tree     | ~70%     |
 | Random Forest     | ~78.2%     |
 
-*(Replace XX% with your actual results)*
+
 
 ---
 
